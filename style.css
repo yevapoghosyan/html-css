@@ -1,0 +1,13 @@
+.section1 {
+    width: 1040px;
+    height: 500px;
+    border: 1px solid black;
+}
+.disqus {
+    width: 350px;
+    height: 60px;
+    border: 1px solid pink;
+    margin-left: 350px;
+    text-align: center;
+    border-radius: 30px;
+}
