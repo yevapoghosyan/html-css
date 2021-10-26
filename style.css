@@ -1,13 +1,35 @@
-.section1 {
-    width: 1040px;
-    height: 500px;
-    border: 1px solid black;
+body {
+    background-color:blue;
 }
-.disqus {
-    width: 350px;
-    height: 60px;
-    border: 1px solid pink;
-    margin-left: 350px;
-    text-align: center;
-    border-radius: 30px;
+.section1 {
+    width: 1070px;
+    height: 100px;
+    border: 1px solid white;
+}
+.sec1text {
+     color: black;
+     margin-left: 100px;
+     margin-top: 30px;
+     font-size: 30px;
+     display: inline-block;
+}
+.sec1text{
+    font-family:monospace ;
+}
+.ptext {
+    display: inline-block;
+    margin-left: 80px;
+    font-size: 20px;
+    color: aqua;
+}
+.ptext1 {
+    display: inline-block;
+    margin-left: 30px;
+    font-size: 20px;
+    color: white;
+}
+.btn {
+    width: 100px;
+    height: 50px;
+    background-color: blue;
 }
