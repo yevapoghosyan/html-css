@@ -29,7 +29,45 @@ body {
     color: white;
 }
 .btn {
-    width: 100px;
-    height: 50px;
+    width: 180px;
+    height: 30px;
     background-color: blue;
+}
+.sec2pext {
+    text-align: center;
+    font-size:50px;
+    margin-top: -10px;
+    color: white;
+}
+.section2ptext2 {
+    text-align: center;
+    font-size: 50px;
+    margin-top: -40px;
+    margin-left: 50px;
+    color: red;
+}
+.inpsurnamename {
+    width: 760px;
+    display: block;
+    margin-left: 200px;
+    margin-top: 20px;
+    height: 30px;
+    background-color: blue;
+    border: 3px solid white;
+    
+}
+.ptext2 {
+    margin-left: 500px;
+    color: white;
+}
+::placeholder {
+    color: white;
+    opacity: 1; 
+  }
+.p1 {
+    margin-left: 500px;
+}
+.passwworld {
+    margin-left: 530px;
+    display: inline;
 }
